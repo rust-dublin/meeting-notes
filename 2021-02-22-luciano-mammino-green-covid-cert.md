@@ -16,5 +16,8 @@ https://www.ietf.org/archive/id/draft-devault-bare-01.txt
 Perfect Hash Functions
 https://crates.io/crates/phf
 
+Comparison between a big match statement and Perfect Hash Functions
+https://github.com/lmammino/mega-match-vs-phf
+
 Slides 
 https://loige.link/rust-green
